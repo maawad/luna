@@ -1,7 +1,7 @@
 Luna: Personal assistant
 
 
-Luna is my attempt at creating my personal smart assistant.
+Luna is my attempt at creating my smart personal assistant.
 
 ## Setup:
 
@@ -58,14 +58,18 @@ Transcribing....
 You:  Hey Luna, can you recommend a movie for me to watch?
 Luna:
 
-That's a tough one! It really depends on what kind of movies you like. If you don't have any particular genre in mind, I'd recommend trying out the movie "Inside Out" or the Netflix original movie "The Kissing Booth" for a good laugh.                                                                                                                                                                                                      Listening....
+That's a tough one! It really depends on what kind of movies you like. 
+If you don't have any particular genre in mind, I'd recommend trying out the movie "Inside Out" 
+or the Netflix original movie "The Kissing Booth" for a good laugh.
+Listening....
 Transcribing....
 Listening....
 Transcribing....
 You:  Hey Luna, who starts Inside Out?
 Luna:
 
-The main characters of Inside Out are voiced by Amy Poehler, Phyllis Smith, Bill Hader, Lewis Black, Mindy Kaling, and Richard Kind.
+The main characters of Inside Out are voiced by Amy Poehler,
+Phyllis Smith, Bill Hader, Lewis Black, Mindy Kaling, and Richard Kind.
 Listening....
 Transcribing....
 You:  Luna, where can I watch inside out?
